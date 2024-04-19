@@ -1,5 +1,5 @@
 # Kalkulator Matriks Python
-
+![menu](https://github.com/w1th0ut/matrix_calculator/blob/main/doc/Dokumentasi%20Program/menu.png)
 Program ini adalah kalkulator matriks Python yang memungkinkan pengguna untuk melakukan berbagai operasi matriks, termasuk:
 - Penyelesaian Sistem Persamaan Linier: Program ini dapat menyelesaikan sistem persamaan linier menggunakan metode eliminasi Gaussian, eliminasi Gaussian-Jordan, dan invers matrix.
 - Pencarian Nilai Eigen dan Vektor Eigen: Program ini dapat menemukan nilai eigen dan vektor eigen dari matriks.
